@@ -13,3 +13,11 @@ I am a webdesigner and fullstack webdeveloper with a background in and passion f
 </div>
 
 <br/>
+
+## Socials
+
+* [Website](https://www.rondekker.com/)
+* [LinkedIn](https://www.linkedin.com/in/dekkerron/)
+* [Twitter](https://www.twitter.com/redkenrok/)
+
+<br/>
