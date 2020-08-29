@@ -10,9 +10,7 @@ I am a webdesigner and fullstack webdeveloper with a background in and passion f
 
   [Read further at www.rondekker.com](https://www.rondekker.com)
 
-  <br/>
-
-  [Website](https://www.rondekker.com/) [LinkedIn](https://www.linkedin.com/in/dekkerron/) [Twitter](https://www.twitter.com/redkenrok/)
+  [Website](https://www.rondekker.com/) &#160; [LinkedIn](https://www.linkedin.com/in/dekkerron/) &#160; [Twitter](https://www.twitter.com/redkenrok/)
 
 </div>
 
