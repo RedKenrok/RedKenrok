@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-# Moi, Ik ben Ron Dekker. Een Full Stack developer werkend aan een Content Management System.
+# Moi, ik ben Ron Dekker. Een Full Stack developer werkend aan een Content Management System.
 
 <br/>
 
