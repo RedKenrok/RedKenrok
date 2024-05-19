@@ -1,6 +1,6 @@
 <br/>
 
-# Hi, I'm Ron Dekker. I'm a Full Stack developer working on a Content Management System.
+# Hey, I'm Ron Dekker. I'm a Full Stack developer working on a Content Management System.
 
 <br/>
 
@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-# Moi, ik ben Ron Dekker. Een Full Stack developer werkend aan een Content Management System.
+# Hey, ik ben Ron Dekker. Een Full Stack developer werkend aan een Content Management System.
 
 <br/>
 
