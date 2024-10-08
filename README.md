@@ -4,7 +4,7 @@
 
 <br/>
 
-[Website](https://rondekker.com/) &#160; [Articles](https://rondekker.com/articles/) &#160; [LinkedIn](https://www.linkedin.com/in/dekkerron/?locale=en_US)
+[Website](https://rondekker.com/) &#160; [Articles](https://rondekker.com/articles/) &#160; [Tools](https://rondekker.com/tools/) &#160; [LinkedIn](https://www.linkedin.com/in/dekkerron/?locale=en_US)
 
 <br/>
 <br/>
@@ -13,6 +13,6 @@
 
 <br/>
 
-[Website](https://rondekker.nl/) &#160; [Articles](https://rondekker.nl/artikelen/) &#160; [LinkedIn](https://www.linkedin.com/in/dekkerron/)
+[Website](https://rondekker.nl/) &#160; [Articles](https://rondekker.nl/artikelen/) &#160; [Tools](https://rondekker.nl/tools/) &#160; [LinkedIn](https://www.linkedin.com/in/dekkerron/)
 
 <br/>
