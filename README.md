@@ -13,6 +13,6 @@
 
 <br/>
 
-[Website](https://rondekker.nl/) &#160; [Articles](https://rondekker.nl/artikelen/) &#160; [Tools](https://rondekker.nl/tools/) &#160; [LinkedIn](https://www.linkedin.com/in/dekkerron/)
+[Website](https://rondekker.nl/) &#160; [Artikelen](https://rondekker.nl/artikelen/) &#160; [Tools](https://rondekker.nl/tools/) &#160; [LinkedIn](https://www.linkedin.com/in/dekkerron/)
 
 <br/>
